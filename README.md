@@ -32,4 +32,4 @@
 </div>
 <br/>
 
-Desenvolvedor de software com mais de 10anos de experiência, especializado na criaçãode aplicativos web modernos e escaláveis.
+Desenvolvedor de software com mais de 10 anos de experiência, especializado na criaçãode aplicativos web modernos e escaláveis.
