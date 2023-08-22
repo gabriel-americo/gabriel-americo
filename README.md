@@ -1,8 +1,8 @@
-### Olá eu sou Gabriel Americo 👋
+### Hi I'm Gabriel Americo 👋
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-americo&show_icons=true&theme=dracula)
 
-## Linguagens
+## Programming languages
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,7 +23,7 @@
 </div>
 <br/>
 
-## Banco de dados
+## Database
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -32,4 +32,4 @@
 </div>
 <br/>
 
-Desenvolvedor de software com mais de 10 anos de experiência, especializado na criaçãode aplicativos web modernos e escaláveis.
+Software developer with over 10 years of experience, specializing in creating modern, scalable web applications.
