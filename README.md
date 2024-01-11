@@ -1,7 +1,5 @@
 ### Hi I'm Gabriel Americo 👋
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-americo&show_icons=true&theme=dracula)
-
 ## Programming languages
 
 <div style="display: inline_block"><br/>
