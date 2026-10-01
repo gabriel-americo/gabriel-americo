@@ -122,21 +122,4 @@ authentication, architecture and backend development.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-americo&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-americo&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: [Gabriel Americo de Souza](https://www.linkedin.com/)
-- 📧 Email: gabrielamerico90@gmail.com
-- 📍 São Paulo, Brazil
-
----
-
 > Building software, learning continuously and solving complex problems with technology.
